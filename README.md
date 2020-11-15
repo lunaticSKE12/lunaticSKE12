@@ -9,8 +9,9 @@
 
 ---
 
-<div align="center">
 ### Spotify Playing 🎧
+
+<div align="center">
 
 [![Spotify](https://novatorem.lunaticske12.vercel.app/api/spotify)](https://open.spotify.com/user/lunatic-ske)
 
