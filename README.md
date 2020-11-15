@@ -51,6 +51,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#7](https://github.com/lunaticSKE12/Football-stat/pull/7) in [lunaticSKE12/Football-stat](https://github.com/lunaticSKE12/Football-stat)
+2. 🎉 Merged PR [#6](https://github.com/lunaticSKE12/Football-stat/pull/6) in [lunaticSKE12/Football-stat](https://github.com/lunaticSKE12/Football-stat)
+3. 🎉 Merged PR [#5](https://github.com/lunaticSKE12/Football-stat/pull/5) in [lunaticSKE12/Football-stat](https://github.com/lunaticSKE12/Football-stat)
+4. 🎉 Merged PR [#4](https://github.com/lunaticSKE12/Football-stat/pull/4) in [lunaticSKE12/Football-stat](https://github.com/lunaticSKE12/Football-stat)
+5. 💪 Opened PR [#7](https://github.com/jamesnapongd/ISP-Project/pull/7) in [jamesnapongd/ISP-Project](https://github.com/jamesnapongd/ISP-Project)
 <!--END_SECTION:activity-->
 
 ---
